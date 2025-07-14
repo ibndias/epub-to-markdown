@@ -2,19 +2,6 @@
 
 A Python script to convert EPUB files to Markdown format with proper nested headers and structured content.
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Output Structure](#output-structure)
-- [Configuration](#configuration)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## 🔍 Overview
 
 This tool converts EPUB files to Markdown format while preserving the document structure with nested headers. It's designed to handle multiple EPUB files in batch, making it easy to convert entire libraries of ebooks to a readable Markdown format.
